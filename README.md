@@ -18,7 +18,7 @@ or a starting point for more elaborate games.
 
 ```bash
 # Clone the repo
-git clone 
+git clone https://github.com/Jimmyu2foru18/card_game.git
 cd card_game
 
 # Install the runtime dependencies
